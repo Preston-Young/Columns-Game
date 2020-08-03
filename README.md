@@ -21,3 +21,6 @@ it's game over and my program stops running.
   * Press the spacebar as the jewels are falling to rotate them
   * Press the down arrow key to make the jewels fall faster
   * Press 'q' at any time to quit and close the program
+
+## This is a sample interaction of my version of the game:
+![image](https://user-images.githubusercontent.com/56369636/89232697-d39b3480-d59c-11ea-93a0-107deed69162.png)
